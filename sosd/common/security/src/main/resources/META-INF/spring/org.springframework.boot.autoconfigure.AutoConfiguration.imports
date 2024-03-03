@@ -1,0 +1,3 @@
+org.sosd.security.handler.GlobalExceptionHandler
+org.sosd.security.handler.AllUrlHandler
+org.sosd.security.config.SecurityConfig
